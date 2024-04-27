@@ -82,6 +82,10 @@ section {
   background: #000c6bd0;
 }
 
+.footer{
+  background-color: lightslategray;
+}
+
 @media only screen and (max-width: 768px) {
   section {
     padding: 30px 0px;
@@ -94,4 +98,8 @@ section {
   .section__subtitle {
     font-size: 1.1rem;
   }
+}
+
+.font{
+  font-size: 40px;
 }
